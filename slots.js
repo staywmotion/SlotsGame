@@ -14,10 +14,10 @@ const COLS = 3
 
 //create js object to hold key-value pairs
 const SYMBOLS_COUNT = {
-  A: 7, //3
-  B: 7, //4
-  C: 5, //5
-  D: 5, //6
+  A: 3, //3
+  B: 3, //4
+  C: 3, //5
+  D: 3, //6
 }
 // multiplier values for each symbol
 const SYMBOL_VALUES = {
