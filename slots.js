@@ -14,7 +14,7 @@ const COLS = 3
 
 //create js object to hold key-value pairs
 const SYMBOLS_COUNT = {
-  A: 6, //3
+  A: 7, //3
   B: 6, //4
   C: 3, //5
   D: 3, //6
